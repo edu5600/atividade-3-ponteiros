@@ -1,1 +1,1 @@
-# atividade-3-ponteiros
+O seguinte ficheiro contém o arquivo referente a terceira atividade da materia: Algoritimos e Programação de Computadores ||, Turma A, ministrada por Giovanne Falcão na Universidade Estadual do Centro Oeste. Aluno: Eduardo Auda Scislowski.
